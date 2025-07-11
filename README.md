@@ -3,5 +3,5 @@
 ## Installation
 
 ```bash
-git clone https://github.com/nicholas-mn/i3-dotfiles.git ~/.config/nvim
+git clone https://github.com/nicholas-mn/i3-dotfiles.git ~/.config/i3
 ```
