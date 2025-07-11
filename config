@@ -188,9 +188,6 @@ bindsym $mod+Shift+e exec ~/.config/i3/scripts/powermenu
 # poweroff
 bindsym $mod+p exec poweroff
 
-# vim cheatsheet
-bindsym $mod+shift+v exec feh /home/mini/Billeder/vim-shortcuts.png
-
 # edit i3 config
 bindsym $mod+i exec xfce4-terminal -x nvim ~/.config/i3/config
 
